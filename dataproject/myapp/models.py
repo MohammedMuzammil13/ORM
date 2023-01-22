@@ -11,4 +11,3 @@ class EmployeeAdmin(admin.ModelAdmin):
     list_display=('eid','name','salary','age','email')
 
 
-# Create your models here.
